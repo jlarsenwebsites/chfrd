@@ -345,3 +345,9 @@ hr {
 	display: table;
 	clear: both;
 }
+
+.bigContainer:after, .myRow:after, .u-cf {
+	content: "";
+	display: table;
+	clear: both;
+}
